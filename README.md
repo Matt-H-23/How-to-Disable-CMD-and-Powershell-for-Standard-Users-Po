@@ -1,4 +1,4 @@
-# How to Disable CMD and Powershell for Standard Users 
+# How to Disable CMD and Powershell for Standard Users 🧱
 -This lab ilustrates how to disable **CMD** and **Powershell** for certain users
 ### Step 1: Disabling CMD and Powershell for Standard Users
 - In the **Group Policy Management** Navigate to the **Sales OU** -> Right Click on it -> Select **Create New GPO and Link it here**
