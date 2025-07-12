@@ -12,7 +12,7 @@
 - To Disable **Powershell and Powershell ISE** from being ran on the user account, underneath the same **Administrative Templates** folder, select the '**Don't run specified Windows Applications Applications**',-> **Enabled**, -> **Show**, -> and add the paths for **PowerShell**, and **PowerShell ISE**, -> **Apply**, and lastly hit **Ok**
 ![Loom Screenshot 2025-06-06 at 08 53 52](https://github.com/user-attachments/assets/381a2280-dddc-4e6d-9ac8-80d236021d8b)
 
-## Demo Video
+## Demo Videos🎥
 -[CMD Prompt Block Demo](https://www.loom.com/share/4c7c078a539b47d38c641aa7ae179477?sid=a47834ae-b705-4501-9e6c-eb661e66f344)
 
 -[Powershell Block Demo](https://www.loom.com/share/7abdde281b4346ec8e629b274191a7ea?sid=37ec4e7c-a72a-4233-8236-bb3113bde284)
