@@ -16,3 +16,6 @@
 -[CMD Prompt Block Demo](https://www.loom.com/share/4c7c078a539b47d38c641aa7ae179477?sid=a47834ae-b705-4501-9e6c-eb661e66f344)
 
 -[Powershell Block Demo](https://www.loom.com/share/7abdde281b4346ec8e629b274191a7ea?sid=37ec4e7c-a72a-4233-8236-bb3113bde284)
+
+# Don't Forget!!
+- In order for these policy changes to take effect, you need to remember to open **Command Prompt** and run the **gpupdate /force** command to enforce the new **Active Directory** policy changes.
